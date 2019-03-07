@@ -5,6 +5,7 @@ int main() {
   int a=5,b=6;
   a=a+b;
   b=b-a;
+  printf("Start Programming ...\n");
   printf("a=%d,b=%d",a,b);
   // call a function in another file
   myPrintHelloMake();
